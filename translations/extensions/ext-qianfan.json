@@ -1,0 +1,7 @@
+{
+  "file": "extensions/qianfan/index.ts",
+  "description": "千帆扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Qianfan API key\"": "promptMessage: \"输入千帆 API 密钥\""
+  }
+}

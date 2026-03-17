@@ -1,0 +1,7 @@
+{
+  "file": "extensions/vercel-ai-gateway/index.ts",
+  "description": "Vercel AI Gateway 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Vercel AI Gateway API key\"": "promptMessage: \"输入 Vercel AI Gateway API 密钥\""
+  }
+}

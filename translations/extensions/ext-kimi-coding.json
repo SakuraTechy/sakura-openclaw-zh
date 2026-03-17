@@ -1,0 +1,9 @@
+{
+  "file": "extensions/kimi-coding/index.ts",
+  "description": "Kimi Coding 扩展认证提示",
+  "replacements": {
+    "\"Kimi Coding uses a dedicated endpoint and API key.\"": "\"Kimi Coding 使用专用端点和 API 密钥。\"",
+    "\"Get your API key at: https://www.kimi.com/code/en\"": "\"在此获取 API 密钥: https://www.kimi.com/code/en\"",
+    "promptMessage: \"Enter Kimi Coding API key\"": "promptMessage: \"输入 Kimi Coding API 密钥\""
+  }
+}

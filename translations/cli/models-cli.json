@@ -62,7 +62,7 @@
     "\"Auth profile id (default: <provider>:manual)\"": "\"认证配置 ID (默认: <provider>:manual)\"",
     "\"Optional expiry duration (e.g. 365d, 12h). Stored as absolute expiresAt.\"": "\"可选过期时长 (例如 365d, 12h)。存储为绝对过期时间。\"",
     ".description(\"Login to GitHub Copilot via GitHub device flow (TTY required)\")": ".description(\"通过 GitHub 设备流登录 GitHub Copilot (需要 TTY)\")",
-    "\"Auth profile id (default: github-copilot:github)\"": "\"认证配置 ID (默认: github-copilot:github)\"",
+
     "\"Overwrite existing profile without prompting\"": "\"无需提示覆盖现有配置\"",
     ".description(\"Manage per-agent auth profile order overrides\")": ".description(\"管理每代理认证配置顺序覆盖\")",
     ".description(\"Show per-agent auth order override (from auth-profiles.json)\")": ".description(\"显示每代理认证顺序覆盖 (来自 auth-profiles.json)\")",

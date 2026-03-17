@@ -1,0 +1,8 @@
+{
+  "file": "extensions/moonshot/index.ts",
+  "description": "Moonshot 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Moonshot API key\"": "promptMessage: \"输入 Moonshot API 密钥\"",
+    "promptMessage: \"Enter Moonshot API key (.cn)\"": "promptMessage: \"输入 Moonshot API 密钥 (.cn)\""
+  }
+}

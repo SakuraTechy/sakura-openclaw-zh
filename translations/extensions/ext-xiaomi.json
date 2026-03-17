@@ -1,0 +1,7 @@
+{
+  "file": "extensions/xiaomi/index.ts",
+  "description": "小米扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Xiaomi API key\"": "promptMessage: \"输入小米 API 密钥\""
+  }
+}

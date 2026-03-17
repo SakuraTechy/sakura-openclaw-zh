@@ -1,5 +1,5 @@
 {
-  "file": "src/commands/onboarding/plugin-install.ts",
+  "file": "src/commands/channel-setup/plugin-install.ts",
   "description": "插件安装向导",
   "replacements": {
     "\"Use local plugin path\"": "\"使用本地插件路径\"",

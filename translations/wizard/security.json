@@ -1,5 +1,5 @@
 {
-  "file": "src/wizard/onboarding.ts",
+  "file": "src/wizard/setup.ts",
   "description": "安全警告提示",
   "replacements": {
     "\"Security warning — please read.\"": "\"安全警告 — 请仔细阅读。\"",

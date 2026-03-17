@@ -1,0 +1,7 @@
+{
+  "file": "extensions/kilocode/index.ts",
+  "description": "Kilo Gateway 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Kilo Gateway API key\"": "promptMessage: \"输入 Kilo Gateway API 密钥\""
+  }
+}

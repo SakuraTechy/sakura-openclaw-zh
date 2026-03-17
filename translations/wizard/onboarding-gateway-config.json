@@ -1,5 +1,5 @@
 {
-  "file": "src/wizard/onboarding.gateway-config.ts",
+  "file": "src/wizard/setup.gateway-config.ts",
   "description": "网关配置向导 (端口/绑定/认证/Tailscale)",
   "replacements": {
     "message: \"Gateway port\"": "message: \"网关端口\"",

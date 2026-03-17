@@ -1,0 +1,10 @@
+{
+  "file": "extensions/opencode-go/index.ts",
+  "description": "OpenCode Go 扩展认证提示",
+  "replacements": {
+    "\"OpenCode uses one API key across the Zen and Go catalogs.\"": "\"OpenCode 使用一个 API 密钥，同时适用于 Zen 和 Go 目录。\"",
+    "\"Get your API key at: https://opencode.ai/auth\"": "\"在此获取 API 密钥: https://opencode.ai/auth\"",
+    "\"Go focuses on Kimi, GLM, and MiniMax coding models.\"": "\"Go 专注于 Kimi、GLM 和 MiniMax 编程模型。\"",
+    "promptMessage: \"Enter OpenCode API key\"": "promptMessage: \"输入 OpenCode API 密钥\""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "extensions/modelstudio/index.ts",
+  "description": "阿里云百炼编程计划扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (China)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国内版）\"",
+    "\"Get your API key at: https://bailian.console.aliyun.com/\"": "\"在此获取 API 密钥: https://bailian.console.aliyun.com/\"",
+    "\"Endpoint: coding.dashscope.aliyuncs.com\"": "\"端点：coding.dashscope.aliyuncs.com\"",
+    "\"Endpoint: coding-intl.dashscope.aliyuncs.com\"": "\"端点：coding-intl.dashscope.aliyuncs.com\"",
+    "\"Models: qwen3.5-plus, glm-4.7, kimi-k2.5, MiniMax-M2.5, etc.\"": "\"模型：qwen3.5-plus, glm-4.7, kimi-k2.5, MiniMax-M2.5 等\"",
+    "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (Global/Intl)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国际版）\""
+  }
+}

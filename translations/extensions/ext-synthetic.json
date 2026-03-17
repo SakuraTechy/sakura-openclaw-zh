@@ -1,0 +1,7 @@
+{
+  "file": "extensions/synthetic/index.ts",
+  "description": "Synthetic 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Synthetic API key\"": "promptMessage: \"输入 Synthetic API 密钥\""
+  }
+}

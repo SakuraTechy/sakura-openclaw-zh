@@ -34,7 +34,7 @@
     "\"plugins disabled\"": "\"插件已禁用\"",
     "\"disabled\"": "\"已禁用\"",
     "`${channel} plugin not available.`": "`${channel} 插件不可用。`",
-    "`${channel} does not support onboarding yet.`": "`${channel} 暂不支持初始化向导。`",
+    "`${channel} does not support guided setup yet.`": "`${channel} 暂不支持引导式设置。`",
     "`${label} does not support deleting config entries.`": "`${label} 不支持删除配置条目。`",
     "message: `Delete ${label} account \"${accountLabel}\"?`": "message: `删除 ${label} 账户 \"${accountLabel}\"?`",
     "message: \"Select channel (QuickStart)\"": "message: \"选择渠道 (快速开始)\"",
@@ -45,7 +45,6 @@
     "hint: selection.length > 0 ? \"Done\" : \"Skip for now\"": "hint: selection.length > 0 ? \"完成\" : \"暂时跳过\"",
     "\"Selected channels\"": "\"已选渠道\"",
     "`Cannot enable ${channel}: ${result.reason ?? \"": "`无法启用 ${channel}：${result.reason ?? \"",
-    "plugin not available (continuing with onboarding). If the channel still doesn't work after setup, run": "插件不可用（继续初始化向导）。如果设置完成后渠道仍无法工作，请运行",
-    "then restart the gateway.": "然后重启网关。"
+    "plugin not available (continuing with setup). If the channel still doesn't work after setup, run": "插件不可用（继续初始化向导）。如果设置完成后渠道仍无法工作，请运行"
   }
 }

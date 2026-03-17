@@ -1,0 +1,7 @@
+{
+  "file": "extensions/together/index.ts",
+  "description": "Together AI 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Together AI API key\"": "promptMessage: \"输入 Together AI API 密钥\""
+  }
+}

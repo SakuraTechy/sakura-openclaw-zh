@@ -138,7 +138,20 @@
       "extensions/feishu-onboarding.json",
       "extensions/feishu-bitable.json",
       "extensions/voice-call.json",
-      "extensions/voice-call-cli.json"
+      "extensions/voice-call-cli.json",
+      "extensions/ext-vercel-ai-gateway.json",
+      "extensions/ext-moonshot.json",
+      "extensions/ext-kimi-coding.json",
+      "extensions/ext-xiaomi.json",
+      "extensions/ext-mistral.json",
+      "extensions/ext-synthetic.json",
+      "extensions/ext-venice.json",
+      "extensions/ext-opencode.json",
+      "extensions/ext-opencode-go.json",
+      "extensions/ext-together.json",
+      "extensions/ext-qianfan.json",
+      "extensions/ext-kilocode.json",
+      "extensions/ext-modelstudio.json"
     ],
     "providers": [
       "providers/shengsuanyun-files.json",

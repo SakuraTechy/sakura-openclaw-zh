@@ -1,0 +1,7 @@
+{
+  "file": "extensions/mistral/index.ts",
+  "description": "Mistral 扩展认证提示",
+  "replacements": {
+    "promptMessage: \"Enter Mistral API key\"": "promptMessage: \"输入 Mistral API 密钥\""
+  }
+}

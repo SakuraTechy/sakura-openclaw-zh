@@ -1,5 +1,5 @@
 {
-  "file": "src/wizard/onboarding.finalize.ts",
+  "file": "src/wizard/setup.finalize.ts",
   "description": "初始化向导最终步骤",
   "replacements": {
     "message: \"Gateway service runtime\"": "message: \"网关服务运行时\"",

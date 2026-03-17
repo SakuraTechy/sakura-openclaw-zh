@@ -1,9 +1,9 @@
 {
-  "file": "src/wizard/onboarding.ts",
+  "file": "src/wizard/setup.ts",
   "description": "初始化引导向导",
   "replacements": {
-    "await prompter.intro(\"OpenClaw onboarding\")": "await prompter.intro(\"OpenClaw 初始化向导\")",
-    "message: \"Onboarding mode\"": "message: \"初始化模式\"",
+    "await prompter.intro(\"OpenClaw setup\")": "await prompter.intro(\"OpenClaw 初始化向导\")",
+    "message: \"Setup mode\"": "message: \"初始化模式\"",
     "{ value: \"quickstart\", label: \"QuickStart\", hint: quickstartHint }": "{ value: \"quickstart\", label: \"快速开始\", hint: quickstartHint }",
     "{ value: \"advanced\", label: \"Manual\", hint: manualHint }": "{ value: \"advanced\", label: \"手动配置\", hint: manualHint }",
     "\"QuickStart only supports local gateways. Switching to Manual mode.\"": "\"快速开始仅支持本地网关。正在切换到手动配置模式。\"",
