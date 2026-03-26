@@ -2,10 +2,9 @@
   "file": "extensions/feishu/src/setup-surface.ts",
   "description": "飞书扩展初始化引导",
   "replacements": {
-    "\"Allowlist Feishu DMs by open_id or user_id.\"": "\"通过 open_id 或 user_id 将飞书私信列入白名单。\"",
-    "\"You can find user open_id in Feishu admin console or via API.\"": "\"您可以在飞书管理控制台或通过 API 找到用户的 open_id。\"",
-    "message: \"Feishu allowFrom (user open_ids)\"": "message: \"飞书允许列表 (用户 open_id)\"",
-    "\"Enter at least one user.\"": "\"至少输入一个用户。\"",
+    "\"Allowlist Feishu DMs by open_id or user_id.\"": "\"通过 open_id 或 user_id 将 Feishu 私信列入白名单。\"",
+    "\"You can find user open_id in Feishu admin console or via API.\"": "\"您可以在 Feishu 管理控制台或通过 API 找到用户的 open_id。\"",
+    "message: \"Feishu allowFrom (user open_ids)\"": "message: \"Feishu 允许列表 (用户 open_id)\"",
     "\"1) Go to Feishu Open Platform (open.feishu.cn)\"": "\"1) 访问飞书开放平台 (open.feishu.cn)\"",
     "\"2) Create a self-built app\"": "\"2) 创建一个自建应用\"",
     "\"3) Get App ID and App Secret from Credentials page\"": "\"3) 从凭证页面获取 App ID 和 App Secret\"",

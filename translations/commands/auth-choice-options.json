@@ -2,11 +2,6 @@
   "file": "src/commands/auth-choice-options.static.ts",
   "description": "认证选项列表 - 静态核心选项（Chutes/LiteLLM/Custom）",
   "replacements": {
-    "hint: \"Unified gateway for 100+ LLM providers\"": "hint: \"统一 LLM 网关（100+ 提供商）\"",
-    "hint: \"Any OpenAI or Anthropic compatible endpoint\"": "hint: \"任意 OpenAI 或 Anthropic 兼容端点\"",
-    "label: \"Custom Provider\"": "label: \"自定义服务商\"",
-    "groupLabel: \"Custom Provider\"": "groupLabel: \"自定义服务商\"",
-    "groupHint: \"Any OpenAI or Anthropic compatible endpoint\"": "groupHint: \"任意 OpenAI 或 Anthropic 兼容端点\"",
-    "groupHint: \"Unified LLM gateway (100+ providers)\"": "groupHint: \"统一 LLM 网关（100+ 提供商）\""
+    "label: \"Skip for now\"": "label: \"暂时跳过\""
   }
 }

@@ -22,8 +22,8 @@
     "message: \"Configure DM access policies now? (default: pairing)\"": "message: \"现在配置私信访问策略吗？(默认: 配对)\"",
     "\"Default: pairing (unknown DMs get a pairing code).\"": "\"默认: 配对 (未知私信将获得配对码)。\"",
     "`Approve: ${formatCliCommand(`openclaw pairing approve ${policy.channel} <code>`)}`": "`批准: ${formatCliCommand(`openclaw pairing approve ${policy.channel} <code>`)}`",
-    "`Allowlist DMs: ${policy.policyKey}=\"allowlist\" + ${policy.allowFromKey} entries.`": "`白名单私信: ${policy.policyKey}=\"allowlist\" + ${policy.allowFromKey} 条目。`",
-    "`Public DMs: ${policy.policyKey}=\"open\" + ${policy.allowFromKey} includes \"*\".`": "`公开私信: ${policy.policyKey}=\"open\" + ${policy.allowFromKey} 包含 \"*\"。`",
+    "`Allowlist DMs: ${policyKey}=\"allowlist\" + ${allowFromKey} entries.`": "`白名单私信: ${policyKey}=\"allowlist\" + ${allowFromKey} 条目。`",
+    "`Public DMs: ${policyKey}=\"open\" + ${allowFromKey} includes \"*\".`": "`公开私信: ${policyKey}=\"open\" + ${allowFromKey} 包含 \"*\"。`",
     "message: `${policy.label} DM policy`": "message: `${policy.label} 私信策略`",
     "label: \"Pairing (recommended)\"": "label: \"配对 (推荐)\"",
     "label: \"Allowlist (specific users only)\"": "label: \"白名单 (仅特定用户)\"",
@@ -45,6 +45,7 @@
     "hint: selection.length > 0 ? \"Done\" : \"Skip for now\"": "hint: selection.length > 0 ? \"完成\" : \"暂时跳过\"",
     "\"Selected channels\"": "\"已选渠道\"",
     "`Cannot enable ${channel}: ${result.reason ?? \"": "`无法启用 ${channel}：${result.reason ?? \"",
-    "plugin not available (continuing with setup). If the channel still doesn't work after setup, run": "插件不可用（继续初始化向导）。如果设置完成后渠道仍无法工作，请运行"
+    "plugin not available (continuing with setup). If the channel still doesn't work after setup, run": "插件不可用（继续设置）。如果设置完成后渠道仍无法工作，请运行",
+    "then restart the gateway.": "然后重启网关。"
   }
 }

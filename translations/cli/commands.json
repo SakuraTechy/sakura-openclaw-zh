@@ -23,6 +23,12 @@
     "Lookup contact and group IDs (self, peers, groups) for supported chat channels": "查询支持渠道的联系人和群组 ID",
     "Security tools and local config audits": "安全工具和本地配置审计",
     "List and inspect available skills": "列出和检查可用技能",
-    "Update OpenClaw and inspect update channel status": "更新 OpenClaw 并检查更新渠道状态"
+    "Update OpenClaw and inspect update channel status": "更新 OpenClaw 并检查更新渠道状态",
+    "Agent Control Protocol tools": "Agent Control Protocol 工具",
+    "Gateway service (legacy alias)": "网关服务（旧版别名）",
+    "System events, heartbeat, and presence": "系统事件、心跳和在线状态",
+    "Device pairing + token management": "设备配对和令牌管理",
+    "Secrets runtime reload controls": "密钥运行时重载控制",
+    "Generate shell completion script": "生成 Shell 补全脚本"
   }
 }

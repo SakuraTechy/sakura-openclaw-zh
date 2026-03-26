@@ -16,6 +16,26 @@
     {
       "source": "providers/files/agents/tools/shengsuanyun/gemini3pro-image-preview.ts",
       "target": "src/agents/tools/shengsuanyun/gemini3pro-image-preview.ts"
+    },
+    {
+      "source": "providers/files/extensions/shengsuanyun/package.json",
+      "target": "extensions/shengsuanyun/package.json"
+    },
+    {
+      "source": "providers/files/extensions/shengsuanyun/openclaw.plugin.json",
+      "target": "extensions/shengsuanyun/openclaw.plugin.json"
+    },
+    {
+      "source": "providers/files/extensions/shengsuanyun/index.ts",
+      "target": "extensions/shengsuanyun/index.ts"
+    },
+    {
+      "source": "providers/files/extensions/shengsuanyun/onboard.ts",
+      "target": "extensions/shengsuanyun/onboard.ts"
+    },
+    {
+      "source": "providers/files/extensions/shengsuanyun/provider-catalog.ts",
+      "target": "extensions/shengsuanyun/provider-catalog.ts"
     }
   ]
 }

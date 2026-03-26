@@ -14,7 +14,9 @@
       "cli/help.json",
       "cli/commands.json",
       "cli/models-cli.json",
-      "cli/command-registry.json"
+      "cli/command-registry.json",
+      "cli/core-command-descriptors.json",
+      "cli/subcli-descriptors.json"
     ],
     "wizard": [
       "wizard/onboarding.json",
@@ -25,7 +27,8 @@
     ],
     "gateway": [
       "gateway/gateway-config-prompts.shared.json",
-      "gateway/control-ui-csp.json"
+      "gateway/control-ui-csp.json",
+      "gateway/auth-messages.json"
     ],
     "shared": [
       "shared/net/ipv4.json"
@@ -59,6 +62,7 @@
       "commands/uninstall.json",
       "commands/package-root-fix.json",
       "commands/model-picker.json",
+      "commands/auth-choice-options-static.json",
       "commands/auth-choice-apply-helpers.json",
       "commands/auth-choice-apply-volcengine.json",
       "commands/auth-choice-apply-byteplus.json",
@@ -125,13 +129,20 @@
       "dashboard/gateway-url-confirmation.json",
       "dashboard/markdown-sidebar.json",
       "dashboard/usage-metrics.json",
+      "dashboard/zh-CN-usage.json",
       "dashboard/agents-utils.json",
       "dashboard/channels-nostr-profile.json",
       "dashboard/agents-overview.json",
       "dashboard/config-sections.json",
       "dashboard/config-appearance.json",
       "dashboard/slash-commands.json",
-      "dashboard/command-palette.json"
+      "dashboard/command-palette.json",
+      "dashboard/slash-command-executor.json",
+      "dashboard/grouped-render.json",
+      "dashboard/login-gate.json",
+      "dashboard/copy-as-markdown.json",
+      "dashboard/speech.json",
+      "dashboard/app-render-helpers.json"
     ],
     "extensions": [
       "extensions/feishu.json",
@@ -151,7 +162,15 @@
       "extensions/ext-together.json",
       "extensions/ext-qianfan.json",
       "extensions/ext-kilocode.json",
-      "extensions/ext-modelstudio.json"
+      "extensions/ext-modelstudio.json",
+      "extensions/ext-minimax.json"
+    ],
+    "plugins": [
+      "plugins/provider-auth-mode.json",
+      "plugins/provider-auth-ref.json"
+    ],
+    "config": [
+      "config/schema-dynamic-hints.json"
     ],
     "providers": [
       "providers/shengsuanyun-files.json",

@@ -8,7 +8,7 @@
     "note(`${params.title} LaunchAgent repaired.`, `${params.title} LaunchAgent`)": "note(`${params.title} LaunchAgent 已修复。`, `${params.title} LaunchAgent`)",
     "note(formatPortDiagnostics(diagnostics).join(\"\\n\"), \"Gateway port\")": "note(formatPortDiagnostics(diagnostics).join(\"\\n\"), \"网关端口\")",
     "note(`Last gateway error: ${lastError}`, \"Gateway\")": "note(`最近网关错误: ${lastError}`, \"网关\")",
-    "note(renderSystemdUnavailableHints({ wsl }).join(\"\\n\"), \"Gateway\")": "note(renderSystemdUnavailableHints({ wsl }).join(\"\\n\"), \"网关\")",
+    "note(\n          renderSystemdUnavailableHints({ wsl, kind: \"generic_unavailable\" }).join(\"\\n\"),\n          \"Gateway\",\n        )": "note(\n          renderSystemdUnavailableHints({ wsl, kind: \"generic_unavailable\" }).join(\"\\n\"),\n          \"网关\",\n        )",
     "note(\"Gateway service not installed.\", \"Gateway\")": "note(\"网关服务未安装。\", \"网关\")",
     "message: \"Install gateway service now?\"": "message: \"现在安装网关服务？\"",
     "message: \"Gateway service runtime\"": "message: \"网关服务运行时\"",

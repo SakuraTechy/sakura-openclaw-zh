@@ -32,7 +32,7 @@
     "label: \"Realtime STT Model\"": "label: \"实时 STT 模型\"",
     "label: \"Media Stream Path\"": "label: \"媒体流路径\"",
     "label: \"TTS Provider Override\"": "label: \"TTS 提供商覆盖\"",
-    "help: \"Deep-merges with messages.tts (Edge is ignored for calls).\"": "help: \"与 messages.tts 深度合并 (通话忽略 Edge)。\"",
+    "help: \"Deep-merges with messages.tts (Microsoft is ignored for calls).\"": "help: \"与 messages.tts 深度合并 (通话忽略 Microsoft)。\"",
     "label: \"OpenAI TTS Model\"": "label: \"OpenAI TTS 模型\"",
     "label: \"OpenAI TTS Voice\"": "label: \"OpenAI TTS 音色\"",
     "label: \"OpenAI API Key\"": "label: \"OpenAI API 密钥\"",

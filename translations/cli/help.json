@@ -14,6 +14,7 @@
     "Use a named profile (isolates OPENCLAW_STATE_DIR/OPENCLAW_CONFIG_PATH under ~/.openclaw-<name>)": "使用命名配置文件（在 ~/.openclaw-<name> 下隔离状态和配置）",
     "Disable ANSI colors": "禁用 ANSI 颜色",
     "`Global log level override for file + console (${CLI_LOG_LEVEL_VALUES})`": "`全局日志级别覆盖，适用于文件和控制台 (${CLI_LOG_LEVEL_VALUES})`",
-    "return `\\n${theme.heading(\"Examples:\")}\\n${fmtExamples}\\n\\n${theme.muted(\"Docs:\")} ${docs}\\n`;": "return `\\n${theme.heading(\"示例：\")}\\n${fmtExamples}\\n\\n${theme.muted(\"文档：\")} ${docs}\\n${theme.muted(\"汉化版：\")} ${theme.info(\"https://openclaw.qt.cool/\")}\\n`;"
+    "return `\\n${theme.heading(\"Examples:\")}\\n${fmtExamples}\\n\\n${theme.muted(\"Docs:\")} ${docs}\\n`;": "return `\\n${theme.heading(\"示例：\")}\\n${fmtExamples}\\n\\n${theme.muted(\"文档：\")} ${docs}\\n${theme.muted(\"汉化版：\")} ${theme.info(\"https://openclaw.qt.cool/\")}\\n`;",
+    "\"Show detailed help for the models command.\"": "\"显示 models 命令的详细帮助。\""
   }
 }

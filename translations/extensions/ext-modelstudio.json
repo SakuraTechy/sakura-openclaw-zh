@@ -1,12 +1,15 @@
 {
   "file": "extensions/modelstudio/index.ts",
-  "description": "阿里云百炼编程计划扩展认证提示",
+  "description": "阿里云百炼扩展认证选项 (v2026.3.22 从 auth-choice 迁移)",
   "replacements": {
+    "label: \"Coding Plan API Key for China (subscription)\"": "label: \"编程计划 API 密钥-国内版（订阅）\"",
+    "hint: \"Endpoint: coding.dashscope.aliyuncs.com\"": "hint: \"端点：coding.dashscope.aliyuncs.com\"",
     "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (China)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国内版）\"",
     "\"Get your API key at: https://bailian.console.aliyun.com/\"": "\"在此获取 API 密钥: https://bailian.console.aliyun.com/\"",
-    "\"Endpoint: coding.dashscope.aliyuncs.com\"": "\"端点：coding.dashscope.aliyuncs.com\"",
-    "\"Endpoint: coding-intl.dashscope.aliyuncs.com\"": "\"端点：coding-intl.dashscope.aliyuncs.com\"",
-    "\"Models: qwen3.5-plus, glm-4.7, kimi-k2.5, MiniMax-M2.5, etc.\"": "\"模型：qwen3.5-plus, glm-4.7, kimi-k2.5, MiniMax-M2.5 等\"",
+    "groupLabel: \"Qwen (Alibaba Cloud Model Studio)\"": "groupLabel: \"阿里云百炼\"",
+    "groupHint: \"Standard / Coding Plan (CN / Global)\"": "groupHint: \"编程计划 API 密钥（国内 / 国际）\"",
+    "label: \"Coding Plan API Key for Global/Intl (subscription)\"": "label: \"编程计划 API 密钥-国际版（订阅）\"",
+    "hint: \"Endpoint: coding-intl.dashscope.aliyuncs.com\"": "hint: \"端点：coding-intl.dashscope.aliyuncs.com\"",
     "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (Global/Intl)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国际版）\""
   }
 }

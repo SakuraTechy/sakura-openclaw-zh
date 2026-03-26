@@ -1,5 +1,7 @@
 {
   "file": "src/commands/auth-choice.apply.api-key-providers.ts",
-  "description": "API 提供商认证交互 - 已迁移至各 extension 插件，此文件仅保留 LiteLLM",
-  "replacements": {}
+  "description": "API 提供商认证交互（从 auth-choice.apply.api-providers.ts 拆分）",
+  "replacements": {
+    "promptMessage: \"Enter LiteLLM API key\"": "promptMessage: \"输入 LiteLLM API 密钥\""
+  }
 }

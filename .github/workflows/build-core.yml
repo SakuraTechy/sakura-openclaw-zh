@@ -205,9 +205,13 @@ jobs:
           echo "📦 [3b] tsdown 主构建..."
           node scripts/tsdown-build.mjs
           
-          # 3c: 复制 plugin-sdk root alias
-          echo "📦 [3c] 复制 plugin-sdk..."
-          node scripts/copy-plugin-sdk-root-alias.mjs
+          # 3c: 运行时后处理（复制 plugin-sdk alias + 插件 metadata + 渠道目录 + 运行时依赖）
+          echo "📦 [3c] runtime-postbuild（含 openclaw.plugin.json 复制）..."
+          node scripts/runtime-postbuild.mjs
+          
+          # 3c2: 构建戳记
+          echo "📦 [3c2] build-stamp..."
+          node scripts/build-stamp.mjs || true
           
           # 3d: 生成类型声明（上游可能有 TS 错误，允许失败）
           echo "📦 [3d] 生成类型声明（允许失败）..."
