@@ -3,12 +3,6 @@
   "description": "Dashboard Signal 渠道卡片",
   "replacements": {
     "subtitle: \"signal-cli status and channel configuration.\"": "subtitle: \"signal-cli 状态和渠道配置。\"",
-    "{ label: \"Configured\"": "{ label: \"已配置\"",
-    "{ label: \"Running\"": "{ label: \"运行中\"",
-    "{ label: \"Base URL\"": "{ label: \"基础 URL\"",
-    "label: \"Last start\"": "label: \"上次启动\"",
-    "label: \"Last probe\"": "label: \"上次探测\"",
-    "Probe ${signal.probe.ok ? \"ok\" : \"failed\"}": "探测 ${signal.probe.ok ? \"成功\" : \"失败\"}",
     "Probe": "探测"
   }
 }

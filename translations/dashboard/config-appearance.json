@@ -15,7 +15,6 @@
     "75: \"Round\"": "75: \"圆形\"",
     "100: \"Full\"": "100: \"全圆\"",
     ">Status</span>": ">状态</span>",
-    "${props.connected ? \"Connected\" : \"Offline\"}": "${props.connected ? \"已连接\" : \"离线\"}",
     "description: \"Chroma family\"": "description: \"色彩系列\"",
     "description: \"Black & red\"": "description: \"黑红对比\"",
     "description: \"Chocolate blueprint\"": "description: \"巧克力蓝图\""

@@ -36,7 +36,6 @@
     "{ key: \"canvasHost\", label: \"CanvasHost\" }": "{ key: \"canvasHost\", label: \"画布主机\" }",
     "{ key: \"discovery\", label: \"Discovery\" }": "{ key: \"discovery\", label: \"发现\" }",
     "{ key: \"media\", label: \"Media\" }": "{ key: \"media\", label: \"媒体\" }",
-    "label: \"Appearance\"": "label: \"外观\"",
     "{ key: \"__appearance__\", label: \"Theme\" }": "{ key: \"__appearance__\", label: \"主题\" }",
     "{ key: \"ui\", label: \"UI\" }": "{ key: \"ui\", label: \"界面\" }",
     "{ key: \"wizard\", label: \"Setup Wizard\" }": "{ key: \"wizard\", label: \"设置向导\" }"

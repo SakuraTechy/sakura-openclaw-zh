@@ -15,7 +15,6 @@
     "? `Inherit default (${defaultPrimary})` : \"Inherit default\"": "? `继承默认（${defaultPrimary}）` : \"继承默认\"",
     "<span>Fallbacks</span>": "<span>后备模型</span>",
     "placeholder=${fallbackChips.length === 0 ? \"provider/model\" : \"\"}": "placeholder=${fallbackChips.length === 0 ? \"提供商/模型\" : \"\"}",
-    "Reload Config": "重新加载配置",
     "${configSaving ? \"Saving…\" : \"Save\"}": "${configSaving ? \"保存中…\" : \"保存\"}"
   }
 }

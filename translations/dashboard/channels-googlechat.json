@@ -3,13 +3,6 @@
   "description": "Dashboard Google Chat 渠道卡片",
   "replacements": {
     "subtitle: \"Chat API webhook status and channel configuration.\"": "subtitle: \"Chat API Webhook 状态和渠道配置。\"",
-    "{ label: \"Configured\"": "{ label: \"已配置\"",
-    "label: \"Running\"": "label: \"运行中\"",
-    "{ label: \"Credential\"": "{ label: \"凭证\"",
-    "label: \"Audience\"": "label: \"受众\"",
-    "label: \"Last start\"": "label: \"上次启动\"",
-    "label: \"Last probe\"": "label: \"上次探测\"",
-    "Probe ${googleChat.probe.ok ? \"ok\" : \"failed\"}": "探测 ${googleChat.probe.ok ? \"成功\" : \"失败\"}",
     "Probe": "探测"
   }
 }

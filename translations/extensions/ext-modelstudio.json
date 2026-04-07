@@ -1,15 +1,5 @@
 {
   "file": "extensions/modelstudio/index.ts",
-  "description": "阿里云百炼扩展认证选项 (v2026.3.22 从 auth-choice 迁移)",
-  "replacements": {
-    "label: \"Coding Plan API Key for China (subscription)\"": "label: \"编程计划 API 密钥-国内版（订阅）\"",
-    "hint: \"Endpoint: coding.dashscope.aliyuncs.com\"": "hint: \"端点：coding.dashscope.aliyuncs.com\"",
-    "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (China)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国内版）\"",
-    "\"Get your API key at: https://bailian.console.aliyun.com/\"": "\"在此获取 API 密钥: https://bailian.console.aliyun.com/\"",
-    "groupLabel: \"Qwen (Alibaba Cloud Model Studio)\"": "groupLabel: \"阿里云百炼\"",
-    "groupHint: \"Standard / Coding Plan (CN / Global)\"": "groupHint: \"编程计划 API 密钥（国内 / 国际）\"",
-    "label: \"Coding Plan API Key for Global/Intl (subscription)\"": "label: \"编程计划 API 密钥-国际版（订阅）\"",
-    "hint: \"Endpoint: coding-intl.dashscope.aliyuncs.com\"": "hint: \"端点：coding-intl.dashscope.aliyuncs.com\"",
-    "promptMessage: \"Enter Alibaba Cloud Model Studio Coding Plan API key (Global/Intl)\"": "promptMessage: \"输入阿里云百炼编程计划 API 密钥（国际版）\""
-  }
+  "description": "阿里云百炼扩展 — v2026.4.5 已从上游移除",
+  "replacements": {}
 }

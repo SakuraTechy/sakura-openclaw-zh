@@ -4,7 +4,6 @@
   "replacements": {
     "<div class=\"card-title\">Sessions</div>": "<div class=\"card-title\">会话</div>",
     "\"Active session keys and per-session overrides.\"": "\"活动会话密钥和单会话设置覆盖。\"",
-    "${props.loading ? \"Loading…\" : \"Refresh\"}": "${props.loading ? \"加载中…\" : \"刷新\"}",
     "<span>Active</span>": "<span>活动</span>",
     "<span>Limit</span>": "<span>限制</span>",
     "<span>Global</span>": "<span>全局</span>",

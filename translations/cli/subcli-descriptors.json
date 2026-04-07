@@ -19,7 +19,6 @@
     "description: \"Search the live OpenClaw docs\"": "description: \"搜索 OpenClaw 在线文档\"",
     "description: \"Manage internal agent hooks\"": "description: \"管理内部代理 Hook\"",
     "description: \"Webhook helpers and integrations\"": "description: \"Webhook 工具和集成\"",
-    "description: \"Generate iOS pairing QR/setup code\"": "description: \"生成 iOS 配对二维码/设置码\"",
     "description: \"Legacy clawbot command aliases\"": "description: \"旧版 clawbot 命令别名\"",
     "description: \"Secure DM pairing (approve inbound requests)\"": "description: \"安全私信配对（审批入站请求）\"",
     "description: \"Manage OpenClaw plugins and extensions\"": "description: \"管理 OpenClaw 插件和扩展\"",
@@ -29,6 +28,9 @@
     "description: \"Secrets runtime reload controls\"": "description: \"密钥运行时重载控制\"",
     "description: \"List and inspect available skills\"": "description: \"列出和查看可用技能\"",
     "description: \"Update OpenClaw and inspect update channel status\"": "description: \"更新 OpenClaw 并查看更新渠道状态\"",
-    "description: \"Generate shell completion script\"": "description: \"生成 Shell 补全脚本\""
+    "description: \"Generate shell completion script\"": "description: \"生成 Shell 补全脚本\"",
+    "\"Generate mobile pairing QR/setup code\"": "\"生成移动端配对二维码/设置码\"",
+    "name: \"qa\"": "name: \"qa\"",
+    "description: \"Run QA scenarios and launch the private QA debugger UI\"": "description: \"运行 QA 场景并启动私有 QA 调试器 UI\""
   }
 }

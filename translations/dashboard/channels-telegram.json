@@ -3,13 +3,6 @@
   "description": "Dashboard Telegram 渠道卡片",
   "replacements": {
     "subtitle: \"Bot status and channel configuration.\"": "subtitle: \"机器人状态和渠道配置。\"",
-    "{ label: \"Running\"": "{ label: \"运行中\"",
-    "{ label: \"Configured\"": "{ label: \"已配置\"",
-    "<span class=\"label\">Last inbound</span>": "<span class=\"label\">最后入站</span>",
-    "{ label: \"Mode\"": "{ label: \"模式\"",
-    "label: \"Last start\"": "label: \"上次启动\"",
-    "label: \"Last probe\"": "label: \"上次探测\"",
-    "Probe ${telegram.probe.ok ? \"ok\" : \"failed\"}": "探测 ${telegram.probe.ok ? \"成功\" : \"失败\"}",
     "Probe": "探测"
   }
 }

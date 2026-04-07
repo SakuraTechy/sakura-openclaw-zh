@@ -3,7 +3,6 @@
   "description": "Dashboard Agents 管理页面（主框架、工具栏、标签页）",
   "replacements": {
     ">No agents</option>": ">暂无代理</option>",
-    "${props.loading ? \"Loading…\" : \"Refresh\"}": "${props.loading ? \"加载中…\" : \"刷新\"}",
     "title=\"Copy agent ID to clipboard\"": "title=\"复制代理 ID 到剪贴板\"",
     "<div class=\"card-title\">Select an agent</div>": "<div class=\"card-title\">选择代理</div>",
     "<div class=\"card-sub\">Pick an agent to inspect its workspace and tools.</div>": "<div class=\"card-sub\">选择一个代理以查看其工作区和工具。</div>",

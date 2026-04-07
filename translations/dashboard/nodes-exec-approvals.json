@@ -6,7 +6,6 @@
     "Allowlist and approval policy for <span class=\"mono\">exec host=gateway/node</span>.": "允许列表和审批策略，适用于 <span class=\"mono\">exec host=gateway/node</span>。",
     "${state.saving ? \"Saving…\" : \"Save\"}": "${state.saving ? \"保存中…\" : \"保存\"}",
     "<div class=\"muted\">Load exec approvals to edit allowlists.</div>": "<div class=\"muted\">加载执行审批以编辑允许列表。</div>",
-    "${state.loading ? \"Loading…\" : \"Load approvals\"}": "${state.loading ? \"加载中…\" : \"加载审批\"}",
     "<div class=\"list-title\">Target</div>": "<div class=\"list-title\">目标</div>",
     "Gateway edits local approvals; node edits the selected node.": "网关编辑本地审批；节点编辑选定节点。",
     "<span>Host</span>": "<span>主机</span>",

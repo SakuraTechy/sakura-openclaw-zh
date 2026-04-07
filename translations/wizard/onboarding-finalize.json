@@ -30,7 +30,7 @@
     "'We will send: \"Wake up, my friend!\"'": "'我们将发送：\"醒醒，朋友！\"'",
     "\"Start TUI (best option!)\"": "\"启动 TUI（推荐！）\"",
     "\"Gateway token: shared auth for the Gateway + Control UI.\"": "\"网关令牌：网关和控制面板的共享认证。\"",
-    "\"Stored in: ~/.openclaw/openclaw.json (gateway.auth.token) or OPENCLAW_GATEWAY_TOKEN.\"": "\"存储位置：~/.openclaw/openclaw.json (gateway.auth.token) 或 OPENCLAW_GATEWAY_TOKEN 环境变量。\"",
+    "\"Stored in: $OPENCLAW_CONFIG_PATH (default: ~/.openclaw/openclaw.json) under gateway.auth.token, or in OPENCLAW_GATEWAY_TOKEN.\"": "\"存储位置：$OPENCLAW_CONFIG_PATH（默认 ~/.openclaw/openclaw.json）gateway.auth.token 字段，或 OPENCLAW_GATEWAY_TOKEN 环境变量。\"",
     "\"Web UI keeps dashboard URL tokens in memory for the current tab and strips them from the URL after load.\"": "\"Web UI 会将控制台 URL 令牌保存在当前标签页内存中，并在加载后从 URL 中移除。\"",
     "\"If prompted: paste the token into Control UI settings (or use the tokenized dashboard URL).\"": "\"如果提示输入：将令牌粘贴到控制面板设置中（或使用带令牌的面板链接）。\"",
     "message: \"How do you want to hatch your bot?\"": "message: \"你想如何启动你的智能体？\"",

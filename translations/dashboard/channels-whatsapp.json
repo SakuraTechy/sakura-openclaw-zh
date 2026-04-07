@@ -3,16 +3,6 @@
   "description": "Dashboard WhatsApp 渠道卡片",
   "replacements": {
     "subtitle: \"Link WhatsApp Web and monitor connection health.\"": "subtitle: \"连接 WhatsApp Web 并监控连接健康状态。\"",
-    "{ label: \"Configured\"": "{ label: \"已配置\"",
-    "{ label: \"Linked\"": "{ label: \"已链接\"",
-    "{ label: \"Running\"": "{ label: \"运行中\"",
-    "{ label: \"Connected\"": "{ label: \"已连接\"",
-    "label: \"Last connect\"": "label: \"最后连接\"",
-    "label: \"Last message\"": "label: \"最后消息\"",
-    "label: \"Auth age\"": "label: \"认证时长\"",
-    "\"Working…\" : \"Show QR\"": "\"处理中…\" : \"显示二维码\"",
-    "Relink": "重新链接",
-    "Wait for scan": "等待扫描",
     "Logout": "退出登录",
     "Refresh": "刷新"
   }

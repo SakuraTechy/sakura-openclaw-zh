@@ -49,13 +49,11 @@
     "\"Set agents.defaults.imageModel to the first image selection\"": "\"将 agents.defaults.imageModel 设置为第一个图像选择\"",
     ".description(\"Manage model auth profiles\")": ".description(\"管理模型认证配置\")",
     "\"Agent id for auth order get/set/clear\"": "\"用于认证顺序获取/设置/清除的代理 ID\"",
-    ".description(\"Interactive auth helper (setup-token or paste token)\")": ".description(\"交互式认证助手 (设置令牌或粘贴令牌)\")",
     ".description(\"Run a provider plugin auth flow (OAuth/API key)\")": ".description(\"运行提供商插件认证流程 (OAuth/API 密钥)\")",
     "\"Provider id registered by a plugin\"": "\"插件注册的提供商 ID\"",
     "\"Provider auth method id\"": "\"提供商认证方法 ID\"",
     "\"Apply the provider's default model recommendation\"": "\"应用提供商的默认模型推荐\"",
     ".description(\"Run a provider CLI to create/sync a token (TTY required)\")": ".description(\"运行提供商 CLI 以创建/同步令牌 (需要 TTY)\")",
-    "\"Provider id (default: anthropic)\"": "\"提供商 ID (默认: anthropic)\"",
     "\"Skip confirmation\"": "\"跳过确认\"",
     ".description(\"Paste a token into auth-profiles.json and update config\")": ".description(\"将令牌粘贴到 auth-profiles.json 并更新配置\")",
     "\"Provider id (e.g. anthropic)\"": "\"提供商 ID (例如 anthropic)\"",
@@ -67,6 +65,8 @@
     ".description(\"Show per-agent auth order override (from auth-profiles.json)\")": ".description(\"显示每代理认证顺序覆盖 (来自 auth-profiles.json)\")",
     ".description(\"Set per-agent auth order override (locks rotation to this list)\")": ".description(\"设置每代理认证顺序覆盖 (锁定轮换到此列表)\")",
     "\"Auth profile ids (e.g. anthropic:default)\"": "\"认证配置 ID (例如 anthropic:default)\"",
-    ".description(\"Clear per-agent auth order override (fall back to config/round-robin)\")": ".description(\"清除每代理认证顺序覆盖 (回退到配置/轮询)\")"
+    ".description(\"Clear per-agent auth order override (fall back to config/round-robin)\")": ".description(\"清除每代理认证顺序覆盖 (回退到配置/轮询)\")",
+    "\"Interactive auth helper (provider auth or paste token)\"": "\"交互式认证助手（提供商认证或粘贴令牌）\"",
+    "\"Provider id\"": "\"提供商 ID\""
   }
 }
