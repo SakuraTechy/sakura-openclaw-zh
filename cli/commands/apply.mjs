@@ -20,6 +20,7 @@ import { log, colors } from '../utils/logger.mjs';
  */
 async function findOpenClawDir() {
   const candidates = [
+    path.resolve(ROOT_DIR, 'sakura-openclaw'),
     path.resolve(ROOT_DIR, 'openclaw'),
     path.resolve(ROOT_DIR, 'upstream'),
   ];
